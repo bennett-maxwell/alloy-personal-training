@@ -1,0 +1,1879 @@
+{
+  "slug": "alloy-personal-training",
+  "brand": "Alloy Personal Training",
+  "field_count": 195,
+  "franchiseFee": 60000,
+  "totalInvestmentMin": 298650,
+  "totalInvestmentMax": 541120,
+  "royaltyPercent": 7,
+  "totalUnits": 77,
+  "openLocations": 77,
+  "corporateCity": "Roswell",
+  "corporateState": "GA",
+  "corporateZip": "30076",
+  "corporateAddress": "2500 Old Alabama Road, Suite 24, Roswell, GA 30076",
+  "description": "Alloy Personal Training is a Georgia-based personal training franchise offering small-group personal training (up to 6 clients per session) delivered by certified instructors, with individualized programs, technology-driven assessments, and accountability coaching. Franchisees operate 1,500-2,000 sq ft facilities, typically in strip centers, under a 10-year franchise agreement with a protected Designated Area of at least 30,000 people. The 2025 FDD reports 77 total outlets (76 franchised, 1 affiliate-owned) across 25 states, with an Item 19 average 2024 gross revenue of $386,914 across 28 mature franchisee facilities.",
+  "category": "Fitness / Personal Training",
+  "websiteUrl": "https://alloypersonaltraining.com",
+  "yearFounded": 2019,
+  "fddYear": 2025,
+  "territoryDescription": "No exclusive territory. Franchisee receives a protected Designated Area of at least 30,000 people (typically ~2-mile radius in suburban areas); franchisor will not establish another Franchised Business inside it. Minimum annual Gross Sales of $240,000 in Year 1 and $300,000 from Year 2 required to retain territorial rights.",
+  "item12": "non-exclusive",
+  "item20PinCount": 10,
+  "hq_source": "FDD Item 1, p.1 (Alloy Personal Training, LLC principal place of business)",
+  "risk_score": 34,
+  "pins": [
+    {
+      "city": "Roswell",
+      "state": "GA",
+      "lat": 34.02136,
+      "lon": -84.28597,
+      "label": "Alloy Personal Training - Roswell HQ (2500 Old Alabama Rd)",
+      "latitude": 34.02136,
+      "longitude": -84.28597
+    },
+    {
+      "city": "Charlotte (Blakeney)",
+      "state": "NC",
+      "lat": 35.03433,
+      "lon": -80.80637,
+      "label": "Alloy Personal Training - Charlotte Blakeney",
+      "latitude": 35.03433,
+      "longitude": -80.80637
+    },
+    {
+      "city": "Billings",
+      "state": "MT",
+      "lat": 45.75832,
+      "lon": -108.57718,
+      "label": "Alloy Personal Training - Billings MT",
+      "latitude": 45.75832,
+      "longitude": -108.57718
+    },
+    {
+      "city": "Holladay",
+      "state": "UT",
+      "lat": 40.67404,
+      "lon": -111.84087,
+      "label": "Alloy Personal Training - Holladay UT",
+      "latitude": 40.67404,
+      "longitude": -111.84087
+    },
+    {
+      "city": "Coppell",
+      "state": "TX",
+      "lat": 32.95359,
+      "lon": -96.95711,
+      "label": "Alloy Personal Training - Coppell TX",
+      "latitude": 32.95359,
+      "longitude": -96.95711
+    },
+    {
+      "city": "Franklin Lakes",
+      "state": "NJ",
+      "lat": 40.99297,
+      "lon": -74.22287,
+      "label": "Alloy Personal Training - Franklin Lakes NJ",
+      "latitude": 40.99297,
+      "longitude": -74.22287
+    },
+    {
+      "city": "Fairlawn",
+      "state": "OH",
+      "lat": 41.11668,
+      "lon": -81.59583,
+      "label": "Alloy Personal Training - Fairlawn OH",
+      "latitude": 41.11668,
+      "longitude": -81.59583
+    },
+    {
+      "city": "Greenville",
+      "state": "SC",
+      "lat": 34.84829,
+      "lon": -82.4001,
+      "label": "Alloy Personal Training - Greenville SC",
+      "latitude": 34.84829,
+      "longitude": -82.4001
+    },
+    {
+      "city": "Ballwin",
+      "state": "MO",
+      "lat": 38.5912,
+      "lon": -90.52414,
+      "label": "Alloy Personal Training - Ballwin MO",
+      "latitude": 38.5912,
+      "longitude": -90.52414
+    },
+    {
+      "city": "Northville",
+      "state": "MI",
+      "lat": 42.41591,
+      "lon": -83.47069,
+      "label": "Alloy Personal Training - Northville MI",
+      "latitude": 42.41591,
+      "longitude": -83.47069
+    }
+  ],
+  "fields": [
+    {
+      "id": "F001",
+      "category": "identity",
+      "label": "Legal franchisor name",
+      "value": "Alloy Personal Training, LLC",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F002",
+      "category": "identity",
+      "label": "Entity type",
+      "value": "Georgia limited liability company",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F003",
+      "category": "identity",
+      "label": "Entity formation date",
+      "value": "2019-05-16",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F004",
+      "category": "identity",
+      "label": "Principal place of business",
+      "value": "2500 Old Alabama Road, Suite 24, Roswell, Georgia 30076",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F005",
+      "category": "identity",
+      "label": "Franchising since",
+      "value": "2019-09",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F006",
+      "category": "identity",
+      "label": "Franchise offered",
+      "value": "Alloy Facility",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.2"
+    },
+    {
+      "id": "F007",
+      "category": "identity",
+      "label": "Business concept",
+      "value": "Personal training in a group setting delivered by certified instructors",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.2"
+    },
+    {
+      "id": "F008",
+      "category": "identity",
+      "label": "Max group size (clients)",
+      "value": "6",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.2"
+    },
+    {
+      "id": "F009",
+      "category": "identity",
+      "label": "Typical facility size (sq ft)",
+      "value": "1,500-2,000",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.2"
+    },
+    {
+      "id": "F010",
+      "category": "identity",
+      "label": "Affiliate 1 name",
+      "value": "Alloy Personal Training Center, LLC",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F011",
+      "category": "identity",
+      "label": "Affiliate 1 address",
+      "value": "9925 Haynes Bridge Road, Suite 600, Alpharetta, GA 30022",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F012",
+      "category": "identity",
+      "label": "Affiliate 2 name",
+      "value": "Alloy Personal Training Solutions, LLC",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F013",
+      "category": "identity",
+      "label": "Proprietary software",
+      "value": "Alloy App",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.2"
+    },
+    {
+      "id": "F014",
+      "category": "identity",
+      "label": "FDD issuance date",
+      "value": "2025-04-21",
+      "kind": "absolute",
+      "provenance": "FDD Receipt, p.246"
+    },
+    {
+      "id": "F015",
+      "category": "identity",
+      "label": "Franchise seller phone",
+      "value": "(678) 430-8610",
+      "kind": "absolute",
+      "provenance": "FDD Receipt, p.246"
+    },
+    {
+      "id": "F016",
+      "category": "financials",
+      "label": "Item 19 measurement period",
+      "value": "January 2024 - December 2024",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F017",
+      "category": "financials",
+      "label": "Item 19 Part A facilities (1 affiliate + 28 franchisee)",
+      "value": "29",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F018",
+      "category": "financials",
+      "label": "Item 19 average 2024 gross revenue (28 franchisees, USD)",
+      "value": "386914",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F019",
+      "category": "financials",
+      "label": "Item 19 median 2024 gross revenue (USD)",
+      "value": "410342",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F020",
+      "category": "financials",
+      "label": "Item 19 max 2024 gross revenue (USD)",
+      "value": "690988",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F021",
+      "category": "financials",
+      "label": "Item 19 min 2024 gross revenue (USD)",
+      "value": "157991",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F022",
+      "category": "financials",
+      "label": "Item 19 share of facilities above average revenue (%)",
+      "value": "50",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F023",
+      "category": "financials",
+      "label": "Item 19 average monthly memberships",
+      "value": "98",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F024",
+      "category": "financials",
+      "label": "Item 19 average revenue per member (USD)",
+      "value": "337.73",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F025",
+      "category": "financials",
+      "label": "Item 19 median revenue per member (USD)",
+      "value": "336.12",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F026",
+      "category": "financials",
+      "label": "Item 19 Part C facilities (opened 2024, partial year)",
+      "value": "41",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F027",
+      "category": "financials",
+      "label": "Audited financial statements location",
+      "value": "Exhibit G",
+      "kind": "absolute",
+      "provenance": "FDD Item 21 / Exhibit G, p.246"
+    },
+    {
+      "id": "F028",
+      "category": "fees",
+      "label": "Initial franchise fee (USD)",
+      "value": "60000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.9"
+    },
+    {
+      "id": "F029",
+      "category": "fees",
+      "label": "Veteran discount on first license (USD)",
+      "value": "5000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.10"
+    },
+    {
+      "id": "F030",
+      "category": "fees",
+      "label": "Royalty (% of Gross Sales)",
+      "value": "7",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F031",
+      "category": "fees",
+      "label": "Royalty payment frequency",
+      "value": "weekly",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F032",
+      "category": "fees",
+      "label": "Brand Development Fund (% of Gross Sales)",
+      "value": "2",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F033",
+      "category": "fees",
+      "label": "Brand Development Fund frequency",
+      "value": "weekly",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F034",
+      "category": "fees",
+      "label": "Technology fee (USD, weekly)",
+      "value": "220",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F035",
+      "category": "fees",
+      "label": "Local marketing minimum (% of Gross Sales)",
+      "value": "2",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F036",
+      "category": "fees",
+      "label": "Local marketing maximum (% of Gross Sales)",
+      "value": "8",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F037",
+      "category": "fees",
+      "label": "Advertising cooperative (% of Gross Sales)",
+      "value": "1",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.14"
+    },
+    {
+      "id": "F038",
+      "category": "fees",
+      "label": "Transfer fee (USD)",
+      "value": "10000",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.17"
+    },
+    {
+      "id": "F039",
+      "category": "fees",
+      "label": "Renewal fee (USD)",
+      "value": "5000",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.17"
+    },
+    {
+      "id": "F040",
+      "category": "fees",
+      "label": "Relocation fee (USD)",
+      "value": "7500",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.18"
+    },
+    {
+      "id": "F041",
+      "category": "fees",
+      "label": "Additional trainee fee (USD, current)",
+      "value": "2500",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.15"
+    },
+    {
+      "id": "F042",
+      "category": "fees",
+      "label": "Additional/refresher training per diem (USD, current)",
+      "value": "500",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.15"
+    },
+    {
+      "id": "F043",
+      "category": "fees",
+      "label": "Audit understatement threshold triggering cost (%)",
+      "value": "3",
+      "kind": "absolute",
+      "provenance": "FDD Item 6, p.17"
+    },
+    {
+      "id": "F044",
+      "category": "fees",
+      "label": "Grand opening marketing minimum (USD)",
+      "value": "30000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.10"
+    },
+    {
+      "id": "F045",
+      "category": "fees",
+      "label": "Grand opening marketing maximum (USD)",
+      "value": "40000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.10"
+    },
+    {
+      "id": "F046",
+      "category": "fees",
+      "label": "Pre-opening signed-member target (cards on file)",
+      "value": "75",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.10"
+    },
+    {
+      "id": "F047",
+      "category": "fees",
+      "label": "Area development fee, 2 units (USD)",
+      "value": "110000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.11"
+    },
+    {
+      "id": "F048",
+      "category": "fees",
+      "label": "Area development fee per unit, 3-5 units (USD)",
+      "value": "45000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.11"
+    },
+    {
+      "id": "F049",
+      "category": "fees",
+      "label": "Area development fee per unit, 6-9 units (USD)",
+      "value": "40000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.11"
+    },
+    {
+      "id": "F050",
+      "category": "fees",
+      "label": "Area development fee per unit, 10+ units (USD)",
+      "value": "35000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.11"
+    },
+    {
+      "id": "F051",
+      "category": "fees",
+      "label": "FY2024 initial fees paid range (USD)",
+      "value": "45000-60000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.11"
+    },
+    {
+      "id": "F052",
+      "category": "fees",
+      "label": "FY2024 development fees paid range (USD)",
+      "value": "110000-180000",
+      "kind": "absolute",
+      "provenance": "FDD Item 5, p.11"
+    },
+    {
+      "id": "F053",
+      "category": "fees",
+      "label": "Minimum annual Gross Sales, Year 1 (USD)",
+      "value": "240000",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.34"
+    },
+    {
+      "id": "F054",
+      "category": "fees",
+      "label": "Minimum annual Gross Sales, Year 2+ (USD)",
+      "value": "300000",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.34"
+    },
+    {
+      "id": "F055",
+      "category": "fees",
+      "label": "Trainees included in initial fee",
+      "value": "3",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.23"
+    },
+    {
+      "id": "F056",
+      "category": "investment",
+      "label": "Total estimated initial investment minimum (USD)",
+      "value": "298650",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F057",
+      "category": "investment",
+      "label": "Total estimated initial investment maximum (USD)",
+      "value": "541120",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F058",
+      "category": "investment",
+      "label": "Rent, 3 months minimum (USD)",
+      "value": "14400",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F059",
+      "category": "investment",
+      "label": "Rent, 3 months maximum (USD)",
+      "value": "31800",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F060",
+      "category": "investment",
+      "label": "Lease and utility security deposits minimum (USD)",
+      "value": "4000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F061",
+      "category": "investment",
+      "label": "Lease and utility security deposits maximum (USD)",
+      "value": "7500",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F062",
+      "category": "investment",
+      "label": "Architect/project management minimum (USD)",
+      "value": "10000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F063",
+      "category": "investment",
+      "label": "Architect/project management maximum (USD)",
+      "value": "32500",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F064",
+      "category": "investment",
+      "label": "Leasehold improvements minimum (USD)",
+      "value": "95240",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F065",
+      "category": "investment",
+      "label": "Leasehold improvements maximum (USD)",
+      "value": "180270",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F066",
+      "category": "investment",
+      "label": "Furniture, fixtures and equipment minimum (USD)",
+      "value": "38000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F067",
+      "category": "investment",
+      "label": "Furniture, fixtures and equipment maximum (USD)",
+      "value": "81000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F068",
+      "category": "investment",
+      "label": "Signage minimum (USD)",
+      "value": "17000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F069",
+      "category": "investment",
+      "label": "Signage maximum (USD)",
+      "value": "24000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F070",
+      "category": "investment",
+      "label": "Initial inventory minimum (USD)",
+      "value": "250",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F071",
+      "category": "investment",
+      "label": "Initial inventory maximum (USD)",
+      "value": "500",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F072",
+      "category": "investment",
+      "label": "Permits and licenses minimum (USD)",
+      "value": "1000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F073",
+      "category": "investment",
+      "label": "Permits and licenses maximum (USD)",
+      "value": "3000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F074",
+      "category": "investment",
+      "label": "Insurance, 3 months of annual premium minimum (USD)",
+      "value": "600",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F075",
+      "category": "investment",
+      "label": "Insurance, 3 months of annual premium maximum (USD)",
+      "value": "1800",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F076",
+      "category": "investment",
+      "label": "Training expenses minimum (USD)",
+      "value": "1660",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F077",
+      "category": "investment",
+      "label": "Training expenses maximum (USD)",
+      "value": "3350",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F078",
+      "category": "investment",
+      "label": "Computer system minimum (USD)",
+      "value": "4700",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.12"
+    },
+    {
+      "id": "F079",
+      "category": "investment",
+      "label": "Computer system maximum (USD)",
+      "value": "6900",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F080",
+      "category": "investment",
+      "label": "Professional fees minimum (USD)",
+      "value": "5000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F081",
+      "category": "investment",
+      "label": "Professional fees maximum (USD)",
+      "value": "10000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F082",
+      "category": "investment",
+      "label": "Office supplies minimum (USD)",
+      "value": "300",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F083",
+      "category": "investment",
+      "label": "Office supplies maximum (USD)",
+      "value": "1000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F084",
+      "category": "investment",
+      "label": "Miscellaneous minimum (USD)",
+      "value": "1500",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F085",
+      "category": "investment",
+      "label": "Miscellaneous maximum (USD)",
+      "value": "2500",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F086",
+      "category": "investment",
+      "label": "Additional funds, 3 months minimum (USD)",
+      "value": "15000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F087",
+      "category": "investment",
+      "label": "Additional funds, 3 months maximum (USD)",
+      "value": "55000",
+      "kind": "absolute",
+      "provenance": "FDD Item 7, p.13"
+    },
+    {
+      "id": "F088",
+      "category": "operations",
+      "label": "Uniform quality standards compliance required",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F089",
+      "category": "operations",
+      "label": "Real estate purchase from franchisor required",
+      "value": "no",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F090",
+      "category": "operations",
+      "label": "Location must be accepted by franchisor",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.23"
+    },
+    {
+      "id": "F091",
+      "category": "operations",
+      "label": "Build-out per approved design/specifications",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F092",
+      "category": "operations",
+      "label": "Single-source supply may be designated",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F093",
+      "category": "operations",
+      "label": "Required vendors: equipment",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F094",
+      "category": "operations",
+      "label": "Required vendors: online POS and technology services",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F095",
+      "category": "operations",
+      "label": "Required vendors: printed marketing materials",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F096",
+      "category": "operations",
+      "label": "Point-of-sale software",
+      "value": "Mindbody",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F097",
+      "category": "operations",
+      "label": "Operations software",
+      "value": "Alloy Ops",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F098",
+      "category": "operations",
+      "label": "Operations Manual format",
+      "value": "electronic",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.23"
+    },
+    {
+      "id": "F099",
+      "category": "operations",
+      "label": "Manual confidentiality required",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 15, p.41"
+    },
+    {
+      "id": "F100",
+      "category": "operations",
+      "label": "Health-club aggregator agreements need prior consent",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F101",
+      "category": "operations",
+      "label": "Product sampling/testing rights reserved",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 8, p.17"
+    },
+    {
+      "id": "F102",
+      "category": "operations",
+      "label": "Business must operate solely as Alloy Facility",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 16, p.41"
+    },
+    {
+      "id": "F103",
+      "category": "operations",
+      "label": "Minimum operating hours set by franchisor",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 16, p.41"
+    },
+    {
+      "id": "F104",
+      "category": "operations",
+      "label": "Grand opening assistance format",
+      "value": "virtual (Zoom or similar)",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.23"
+    },
+    {
+      "id": "F105",
+      "category": "operations",
+      "label": "On-site opening assistance available",
+      "value": "yes, at per-diem plus expenses",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.23"
+    },
+    {
+      "id": "F106",
+      "category": "operations",
+      "label": "Relocation requires prior written approval",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.35"
+    },
+    {
+      "id": "F107",
+      "category": "operations",
+      "label": "Legal compliance obligation",
+      "value": "strict conformity with all applicable laws",
+      "kind": "absolute",
+      "provenance": "FDD Item 15, p.41"
+    },
+    {
+      "id": "F108",
+      "category": "territory",
+      "label": "Exclusive territory granted",
+      "value": "no",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.33"
+    },
+    {
+      "id": "F109",
+      "category": "territory",
+      "label": "Protected Designated Area granted",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.33"
+    },
+    {
+      "id": "F110",
+      "category": "territory",
+      "label": "Designated Area minimum population",
+      "value": "30000",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.33"
+    },
+    {
+      "id": "F111",
+      "category": "territory",
+      "label": "Designated Area typical suburban radius",
+      "value": "approximately 2 miles",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.33"
+    },
+    {
+      "id": "F112",
+      "category": "territory",
+      "label": "Designated Area boundaries modifiable during term",
+      "value": "no",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.33"
+    },
+    {
+      "id": "F113",
+      "category": "territory",
+      "label": "Competition from other franchisees possible",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.33"
+    },
+    {
+      "id": "F114",
+      "category": "territory",
+      "label": "Merger/acquisition activity rights reserved",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.34"
+    },
+    {
+      "id": "F115",
+      "category": "territory",
+      "label": "Special Sites (military, airports, campuses, malls) carve-out",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.35"
+    },
+    {
+      "id": "F116",
+      "category": "territory",
+      "label": "First failure to meet minimum sales: consequence",
+      "value": "additional on-site training at franchisee expense",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.34"
+    },
+    {
+      "id": "F117",
+      "category": "territory",
+      "label": "Third failure to meet minimum sales: consequence",
+      "value": "termination without cure opportunity",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.34"
+    },
+    {
+      "id": "F118",
+      "category": "territory",
+      "label": "Royalty shortfall on missed minimum sales",
+      "value": "payable by franchisee",
+      "kind": "absolute",
+      "provenance": "FDD Item 12, p.34"
+    },
+    {
+      "id": "F119",
+      "category": "territory",
+      "label": "Area development grants Development Territory",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.23"
+    },
+    {
+      "id": "F120",
+      "category": "training",
+      "label": "Initial training format",
+      "value": "virtual sessions plus 4-day in-person",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F121",
+      "category": "training",
+      "label": "Initial training location",
+      "value": "Headquarters (Roswell, GA)",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F122",
+      "category": "training",
+      "label": "Initial training timing",
+      "value": "approximately 90 days before scheduled opening",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F123",
+      "category": "training",
+      "label": "Trainees covered by initial fee",
+      "value": "up to 3 (franchisee/Operating Partner, GM/Head Trainer, one Trainer)",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F124",
+      "category": "training",
+      "label": "LMS pre-training required",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F125",
+      "category": "training",
+      "label": "Virtual tech-setup meetings required (Mindbody, Alloy Ops, social)",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F126",
+      "category": "training",
+      "label": "Training completion to franchisor satisfaction required",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F127",
+      "category": "training",
+      "label": "Operating Partner must complete initial training",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 15, p.41"
+    },
+    {
+      "id": "F128",
+      "category": "training",
+      "label": "General Manager must complete initial training",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 15, p.41"
+    },
+    {
+      "id": "F129",
+      "category": "training",
+      "label": "Replacement Operating Partner/GM designation deadline (days)",
+      "value": "30",
+      "kind": "absolute",
+      "provenance": "FDD Item 15, p.41"
+    },
+    {
+      "id": "F130",
+      "category": "training",
+      "label": "Renewal requires compliance with then-current training",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 17, p.42"
+    },
+    {
+      "id": "F131",
+      "category": "training",
+      "label": "Training program may combine multiple franchisees",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 11, p.24"
+    },
+    {
+      "id": "F132",
+      "category": "legal",
+      "label": "Litigation disclosable in Item 3",
+      "value": "none",
+      "kind": "absolute",
+      "provenance": "FDD Item 3, p.5"
+    },
+    {
+      "id": "F133",
+      "category": "legal",
+      "label": "Bankruptcy disclosable in Item 4",
+      "value": "none",
+      "kind": "absolute",
+      "provenance": "FDD Item 4, p.5"
+    },
+    {
+      "id": "F134",
+      "category": "legal",
+      "label": "Initial franchise agreement term (years)",
+      "value": "10",
+      "kind": "absolute",
+      "provenance": "FDD Item 17, p.42"
+    },
+    {
+      "id": "F135",
+      "category": "legal",
+      "label": "Renewal agreement may differ materially",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 17, p.42"
+    },
+    {
+      "id": "F136",
+      "category": "legal",
+      "label": "Trademarks registered with USPTO by affiliate APTS",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 13, p.38"
+    },
+    {
+      "id": "F137",
+      "category": "legal",
+      "label": "Marks may be used as corporate/legal name",
+      "value": "no",
+      "kind": "absolute",
+      "provenance": "FDD Item 13, p.38"
+    },
+    {
+      "id": "F138",
+      "category": "legal",
+      "label": "Patents or registered copyrights material to franchise",
+      "value": "none",
+      "kind": "absolute",
+      "provenance": "FDD Item 14, p.40"
+    },
+    {
+      "id": "F139",
+      "category": "legal",
+      "label": "Personal guarantee required from entity owners",
+      "value": "yes",
+      "kind": "absolute",
+      "provenance": "FDD Item 15, p.41"
+    },
+    {
+      "id": "F140",
+      "category": "growth",
+      "label": "Franchised outlets at end of 2022",
+      "value": "12",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F141",
+      "category": "growth",
+      "label": "Franchised outlets at end of 2023",
+      "value": "30",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F142",
+      "category": "growth",
+      "label": "Franchised outlets at end of 2024",
+      "value": "76",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F143",
+      "category": "growth",
+      "label": "Company-owned (affiliate) outlets at end of 2024",
+      "value": "1",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F144",
+      "category": "growth",
+      "label": "Total system outlets at end of 2024",
+      "value": "77",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F145",
+      "category": "growth",
+      "label": "Franchised net change 2022",
+      "value": "+10",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F146",
+      "category": "growth",
+      "label": "Franchised net change 2023",
+      "value": "+18",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F147",
+      "category": "growth",
+      "label": "Franchised net change 2024",
+      "value": "+46",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F148",
+      "category": "growth",
+      "label": "Franchised outlets opened in 2024",
+      "value": "47",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.56"
+    },
+    {
+      "id": "F149",
+      "category": "growth",
+      "label": "Franchised terminations in 2024",
+      "value": "1",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.56"
+    },
+    {
+      "id": "F150",
+      "category": "growth",
+      "label": "Franchised non-renewals 2022-2024",
+      "value": "0",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.56"
+    },
+    {
+      "id": "F151",
+      "category": "growth",
+      "label": "Franchised ceased operations (other) 2022-2024",
+      "value": "0",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.56"
+    },
+    {
+      "id": "F152",
+      "category": "growth",
+      "label": "Outlet transfers in 2024",
+      "value": "5",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.55"
+    },
+    {
+      "id": "F153",
+      "category": "growth",
+      "label": "States with franchised outlets at end of 2024",
+      "value": "25",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.56"
+    },
+    {
+      "id": "F154",
+      "category": "growth",
+      "label": "Largest state by outlets at end of 2024",
+      "value": "Texas (17)",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.57"
+    },
+    {
+      "id": "F155",
+      "category": "growth",
+      "label": "Georgia franchised outlets at end of 2024",
+      "value": "9",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.55"
+    },
+    {
+      "id": "F156",
+      "category": "growth",
+      "label": "Projected new franchised outlets next fiscal year",
+      "value": "per Table 5 (state-level projections)",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.59"
+    },
+    {
+      "id": "F157",
+      "category": "growth",
+      "label": "Signed but unopened agreements as of 2024-12-31",
+      "value": "per Table 5 (state-level)",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.59"
+    },
+    {
+      "id": "F158",
+      "category": "growth",
+      "label": "Franchised outlet 3-year CAGR (2022-2024, %)",
+      "value": "152",
+      "kind": "absolute",
+      "provenance": "FDD Item 20, p.54"
+    },
+    {
+      "id": "F159",
+      "category": "growth",
+      "label": "Former franchisees list available",
+      "value": "Exhibit E",
+      "kind": "absolute",
+      "provenance": "FDD Receipt, p.246"
+    },
+    {
+      "id": "F160",
+      "category": "growth",
+      "label": "Current franchisee list available",
+      "value": "Exhibit D",
+      "kind": "absolute",
+      "provenance": "FDD Receipt, p.246"
+    },
+    {
+      "id": "F161",
+      "category": "growth",
+      "label": "Affiliate operating facility (HBV GA) in operation since",
+      "value": "1992-09",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F162",
+      "category": "performance",
+      "label": "Item 19 includes profit/loss data",
+      "value": "no (revenue only)",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F163",
+      "category": "performance",
+      "label": "Highest-revenue 2024 facility (Item 19)",
+      "value": "Blakeney NC ($690,988)",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F164",
+      "category": "performance",
+      "label": "Lowest-revenue 2024 facility (Item 19)",
+      "value": "South Tulsa OK ($157,991)",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F165",
+      "category": "performance",
+      "label": "Monthly retention range 2024 (%)",
+      "value": "91.2-97.9",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.50"
+    },
+    {
+      "id": "F166",
+      "category": "performance",
+      "label": "Membership pricing structure",
+      "value": "1x/2x/3x per week monthly agreements",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F167",
+      "category": "performance",
+      "label": "Revenue per member high (USD)",
+      "value": "506.48",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F168",
+      "category": "performance",
+      "label": "Revenue per member low (USD)",
+      "value": "202.61",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F169",
+      "category": "performance",
+      "label": "Monthly memberships high",
+      "value": "213",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F170",
+      "category": "performance",
+      "label": "Monthly memberships low",
+      "value": "36",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F171",
+      "category": "performance",
+      "label": "Monthly memberships median",
+      "value": "96",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F172",
+      "category": "performance",
+      "label": "Summerfield NC facility opened",
+      "value": "2020-07",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F173",
+      "category": "performance",
+      "label": "Blakeney NC facility opened",
+      "value": "2021-07",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F174",
+      "category": "performance",
+      "label": "Typical 2024 facility size (sq ft)",
+      "value": "1600",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F175",
+      "category": "performance",
+      "label": "Affiliate HBV facility 2024 revenue (USD)",
+      "value": "476537",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.49"
+    },
+    {
+      "id": "F176",
+      "category": "performance",
+      "label": "HBV facility relocated",
+      "value": "2022-10",
+      "kind": "absolute",
+      "provenance": "FDD Item 19, p.48"
+    },
+    {
+      "id": "F177",
+      "category": "performance",
+      "label": "Affiliate owns/operates business of type franchised since",
+      "value": "1992-11",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F178",
+      "category": "performance",
+      "label": "Marks owner",
+      "value": "Alloy Personal Training Solutions, LLC (licensed to franchisor)",
+      "kind": "absolute",
+      "provenance": "FDD Item 1, p.1"
+    },
+    {
+      "id": "F179",
+      "category": "financials",
+      "label": "Illustrative annual royalty at Item 19 average revenue (USD)",
+      "value": "27084",
+      "kind": "theoretical",
+      "provenance": "theoretical: computed as 7% of $386,914 Item 19 average; illustrative only, not an FDD representation"
+    },
+    {
+      "id": "F180",
+      "category": "financials",
+      "label": "Illustrative annual Brand Development Fund at average revenue (USD)",
+      "value": "7738",
+      "kind": "theoretical",
+      "provenance": "theoretical: computed as 2% of $386,914 Item 19 average; illustrative only"
+    },
+    {
+      "id": "F181",
+      "category": "financials",
+      "label": "Annual technology fee (USD)",
+      "value": "11440",
+      "kind": "theoretical",
+      "provenance": "theoretical: computed as $220 x 52 weeks; illustrative only"
+    },
+    {
+      "id": "F182",
+      "category": "financials",
+      "label": "Illustrative combined annual franchisor fees at average revenue (USD)",
+      "value": "46262",
+      "kind": "theoretical",
+      "provenance": "theoretical: sum of illustrative royalty ($27,084) + BDF ($7,738) + tech ($11,440); illustrative only"
+    },
+    {
+      "id": "F183",
+      "category": "investment",
+      "label": "Investment midpoint (USD)",
+      "value": "419885",
+      "kind": "theoretical",
+      "provenance": "theoretical: midpoint of $298,650-$541,120 Item 7 range; illustrative only"
+    },
+    {
+      "id": "F184",
+      "category": "financials",
+      "label": "Illustrative gross revenue multiple on max investment",
+      "value": "0.72",
+      "kind": "theoretical",
+      "provenance": "theoretical: computed as $386,914 / $541,120; illustrative only, revenue not profit"
+    },
+    {
+      "id": "F185",
+      "category": "growth",
+      "label": "Implied 2024 closure rate (terminations / avg base, %)",
+      "value": "2.5",
+      "kind": "theoretical",
+      "provenance": "theoretical: computed as 1 termination / 39.33 average franchised outlets 2022-2024; illustrative only"
+    },
+    {
+      "id": "F186",
+      "category": "financials",
+      "label": "Illustrative months to recoup max investment at average revenue",
+      "value": "16.8",
+      "kind": "theoretical",
+      "provenance": "theoretical: computed as $541,120 / ($386,914/12); illustrative only, ignores all costs"
+    },
+    {
+      "id": "F187",
+      "category": "territory",
+      "label": "Market concentration assessment",
+      "value": "insufficient-data",
+      "kind": "theoretical",
+      "provenance": "theoretical: FDD does not disclose per-market outlet density; cannot assess saturation from FDD alone"
+    },
+    {
+      "id": "F188",
+      "category": "growth",
+      "label": "Franchise Times: franchise locations (2026)",
+      "value": "135+ in 38 states",
+      "kind": "matching",
+      "provenance": "external corroboration: Franchise Times franchise coverage, observed 2026-09-13 UTC"
+    },
+    {
+      "id": "F189",
+      "category": "growth",
+      "label": "Franchise Times: openings in 2025",
+      "value": "61",
+      "kind": "matching",
+      "provenance": "external corroboration: Franchise Times franchise coverage, observed 2026-09-13 UTC"
+    },
+    {
+      "id": "F190",
+      "category": "growth",
+      "label": "Franchise Times: openings in 2024",
+      "value": "46",
+      "kind": "matching",
+      "provenance": "external corroboration: Franchise Times franchise coverage, observed 2026-09-13 UTC"
+    },
+    {
+      "id": "F191",
+      "category": "financials",
+      "label": "Franchise Times: average unit volume (USD)",
+      "value": "386914",
+      "kind": "matching",
+      "provenance": "external corroboration: Franchise Times franchise coverage; matches FDD Item 19 average exactly, observed 2026-09-13 UTC"
+    },
+    {
+      "id": "F192",
+      "category": "investment",
+      "label": "Franchise Times: cited investment range (USD)",
+      "value": "298650-544120",
+      "kind": "matching",
+      "provenance": "external corroboration: Franchise Times franchise coverage; aligns with FDD Item 7 $298,650-$541,120, observed 2026-09-13 UTC"
+    },
+    {
+      "id": "F193",
+      "category": "growth",
+      "label": "FranchiseWire: opened locations",
+      "value": "123",
+      "kind": "matching",
+      "provenance": "external corroboration: FranchiseWire franchise coverage, observed 2026-09-13 UTC"
+    },
+    {
+      "id": "F194",
+      "category": "identity",
+      "label": "FranchiseWire: headquarters",
+      "value": "Roswell, Georgia",
+      "kind": "matching",
+      "provenance": "external corroboration: FranchiseWire franchise coverage; matches FDD Item 1, observed 2026-09-13 UTC"
+    },
+    {
+      "id": "F195",
+      "category": "growth",
+      "label": "Franchise Times Top 400 placement (2026)",
+      "value": "placed",
+      "kind": "matching",
+      "provenance": "external corroboration: Franchise Times Top 400 2026 franchise ranking, observed 2026-09-13 UTC"
+    }
+  ],
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:43:53Z",
+    "pins_total": 10,
+    "pins_verified": 10,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Roswell",
+        "state": "GA",
+        "stored": [
+          34.02136,
+          -84.28597
+        ],
+        "geocoded": [
+          34.02332,
+          -84.360022
+        ],
+        "distance_km": 6.83,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Charlotte",
+        "state": "NC",
+        "stored": [
+          35.03433,
+          -80.80637
+        ],
+        "geocoded": [
+          35.2272086,
+          -80.8430827
+        ],
+        "distance_km": 21.71,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Billings",
+        "state": "MT",
+        "stored": [
+          45.75832,
+          -108.57718
+        ],
+        "geocoded": [
+          45.7874957,
+          -108.49607
+        ],
+        "distance_km": 7.08,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Holladay",
+        "state": "UT",
+        "stored": [
+          40.67404,
+          -111.84087
+        ],
+        "geocoded": [
+          40.6710765,
+          -111.8250278
+        ],
+        "distance_km": 1.38,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Coppell",
+        "state": "TX",
+        "stored": [
+          32.95359,
+          -96.95711
+        ],
+        "geocoded": [
+          32.9552598,
+          -97.0155703
+        ],
+        "distance_km": 5.46,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Franklin Lakes",
+        "state": "NJ",
+        "stored": [
+          40.99297,
+          -74.22287
+        ],
+        "geocoded": [
+          41.0167639,
+          -74.2057012
+        ],
+        "distance_km": 3.01,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Fairlawn",
+        "state": "OH",
+        "stored": [
+          41.11668,
+          -81.59583
+        ],
+        "geocoded": [
+          41.1326644,
+          -81.6262051
+        ],
+        "distance_km": 3.1,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Greenville",
+        "state": "SC",
+        "stored": [
+          34.84829,
+          -82.4001
+        ],
+        "geocoded": [
+          34.851354,
+          -82.3984882
+        ],
+        "distance_km": 0.37,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 8,
+        "city": "Ballwin",
+        "state": "MO",
+        "stored": [
+          38.5912,
+          -90.52414
+        ],
+        "geocoded": [
+          38.5961694,
+          -90.5387318
+        ],
+        "distance_km": 1.38,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 9,
+        "city": "Northville",
+        "state": "MI",
+        "stored": [
+          42.41591,
+          -83.47069
+        ],
+        "geocoded": [
+          42.4310816,
+          -83.4832339
+        ],
+        "distance_km": 1.98,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:43:53Z",
+  "risk_method": "litigation_bankruptcy 0x0.15 + closure_rate 25x0.20 + system_maturity 40x0.15 + financial_transparency 45x0.20 + fee_burden 55x0.15 + territory_protection 40x0.15 = 34.25 -> 34 (weighted mean; source: builder gen_fields.py; same six components published on page)",
+  "risk_components": [
+    {
+      "name": "litigation_bankruptcy",
+      "weight": 0.15,
+      "note": "no litigation or bankruptcy disclosed (Items 3-4)"
+    },
+    {
+      "name": "closure_rate",
+      "weight": 0.2,
+      "note": "1 termination over 3 years; ~2.5% implied closure rate on avg base"
+    },
+    {
+      "name": "system_maturity",
+      "weight": 0.15,
+      "note": "franchising since 2019 (7 years); young but scaling fast"
+    },
+    {
+      "name": "financial_transparency",
+      "weight": 0.2,
+      "note": "Item 19 revenue-only, n=28 franchisees; no profit/cost data"
+    },
+    {
+      "name": "fee_burden",
+      "weight": 0.15,
+      "note": "7% royalty + 2% BDF + $220/wk tech + 2-8% local = 11-19% effective burden"
+    },
+    {
+      "name": "territory_protection",
+      "weight": 0.15,
+      "note": "no exclusive territory; protected Designated Area (>=30k pop); minimum sales required"
+    }
+  ],
+  "risk_source": "gen_fields.py weighted components + page (same six published)"
+}
