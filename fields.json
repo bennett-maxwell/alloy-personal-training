@@ -367,7 +367,7 @@
    "id": "F032",
    "category": "fees",
    "label": "Brand Development Fund (% of Gross Sales)",
-   "value": "2",
+   "value": "2%",
    "kind": "absolute",
    "provenance": "FDD Item 6, p.14"
   },
