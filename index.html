@@ -74,6 +74,16 @@ footer { text-align: center; color: var(--muted); font-size: .85rem; padding: 32
 <div class="risk-num">34<span style="font-size:1.2rem">/100</span></div>
 <p>Composite risk score built from six published components: litigation/bankruptcy history (0), outlet closure rate (25), system maturity (40), financial transparency (45), fee burden (55), and territory protection (40). Confidence: <strong>MODERATE</strong> — based on FDD-stated facts; Item 19 covers revenue only, not profit.</p>
 </div>
+<p><strong>Risk inputs and weights (published so an independent verifier can recompute):</strong></p>
+<p>Method: base 0 + litigation_bankruptcy 0 + closure_rate 5 + system_maturity 6 + financial_transparency 9 + fee_burden 8.25 + territory_protection 6 = 34.25 -&gt; 34</p>
+<ul>
+<li><strong>Litigation Bankruptcy:</strong> +0 — no litigation or bankruptcy disclosed (Items 3-4)</li>
+<li><strong>Closure Rate:</strong> +5 — 1 termination over 3 years; ~2.5% implied closure rate on avg base</li>
+<li><strong>System Maturity:</strong> +6 — franchising since 2019 (7 years); young but scaling fast</li>
+<li><strong>Financial Transparency:</strong> +9 — Item 19 revenue-only, n=28 franchisees; no profit/cost data</li>
+<li><strong>Fee Burden:</strong> +8.25 — 7% royalty + 2% BDF + $220/wk tech + 2-8% local = 11-19% effective burden</li>
+<li><strong>Territory Protection:</strong> +6 — no exclusive territory; protected Designated Area (&gt;=30k pop); minimum sales required</li>
+</ul>
 </section>
 
 <section>
