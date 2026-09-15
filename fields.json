@@ -1677,16 +1677,16 @@
     }
   ],
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
-    "run_at": "2026-09-13T01:43:53Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
+    "run_utc": "2026-09-15T02:14:31.065257+00:00",
     "pins_total": 10,
     "pins_verified": 10,
-    "pins_unverifiable": 0,
     "pins_mismatch": 0,
+    "pins_unverifiable": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1706,17 +1706,17 @@
       },
       {
         "pin": 1,
-        "city": "Charlotte",
+        "city": "Charlotte (Blakeney)",
         "state": "NC",
         "stored": [
           35.03433,
           -80.80637
         ],
         "geocoded": [
-          35.2272086,
-          -80.8430827
+          35.036764,
+          -80.80661
         ],
-        "distance_km": 21.71,
+        "distance_km": 0.27,
         "status": "VERIFIED"
       },
       {
@@ -1728,7 +1728,7 @@
           -108.57718
         ],
         "geocoded": [
-          45.7874957,
+          45.787496,
           -108.49607
         ],
         "distance_km": 7.08,
@@ -1743,8 +1743,8 @@
           -111.84087
         ],
         "geocoded": [
-          40.6710765,
-          -111.8250278
+          40.671076,
+          -111.825028
         ],
         "distance_km": 1.38,
         "status": "VERIFIED"
@@ -1758,8 +1758,8 @@
           -96.95711
         ],
         "geocoded": [
-          32.9552598,
-          -97.0155703
+          32.95526,
+          -97.01557
         ],
         "distance_km": 5.46,
         "status": "VERIFIED"
@@ -1773,8 +1773,8 @@
           -74.22287
         ],
         "geocoded": [
-          41.0167639,
-          -74.2057012
+          41.016764,
+          -74.205701
         ],
         "distance_km": 3.01,
         "status": "VERIFIED"
@@ -1788,8 +1788,8 @@
           -81.59583
         ],
         "geocoded": [
-          41.1326644,
-          -81.6262051
+          41.132664,
+          -81.626205
         ],
         "distance_km": 3.1,
         "status": "VERIFIED"
@@ -1804,7 +1804,7 @@
         ],
         "geocoded": [
           34.851354,
-          -82.3984882
+          -82.398488
         ],
         "distance_km": 0.37,
         "status": "VERIFIED"
@@ -1818,8 +1818,8 @@
           -90.52414
         ],
         "geocoded": [
-          38.5961694,
-          -90.5387318
+          38.596169,
+          -90.538732
         ],
         "distance_km": 1.38,
         "status": "VERIFIED"
@@ -1833,47 +1833,50 @@
           -83.47069
         ],
         "geocoded": [
-          42.4310816,
-          -83.4832339
+          42.431082,
+          -83.483234
         ],
         "distance_km": 1.98,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-13T01:43:53Z",
-  "risk_method": "litigation_bankruptcy 0x0.15 + closure_rate 25x0.20 + system_maturity 40x0.15 + financial_transparency 45x0.20 + fee_burden 55x0.15 + territory_protection 40x0.15 = 34.25 -> 34 (weighted mean; source: builder gen_fields.py; same six components published on page)",
+  "pinsUpdatedAt": "2026-09-15T02:14:31.065257+00:00",
+  "risk_method": "base 0 + litigation_bankruptcy 0 + closure_rate 5 + system_maturity 6 + financial_transparency 9 + fee_burden 8.25 + territory_protection 6 = 34.25 -> 34",
   "risk_components": [
     {
       "name": "litigation_bankruptcy",
-      "weight": 0.15,
+      "weight": 0,
       "note": "no litigation or bankruptcy disclosed (Items 3-4)"
     },
     {
       "name": "closure_rate",
-      "weight": 0.2,
+      "weight": 5,
       "note": "1 termination over 3 years; ~2.5% implied closure rate on avg base"
     },
     {
       "name": "system_maturity",
-      "weight": 0.15,
+      "weight": 6,
       "note": "franchising since 2019 (7 years); young but scaling fast"
     },
     {
       "name": "financial_transparency",
-      "weight": 0.2,
+      "weight": 9,
       "note": "Item 19 revenue-only, n=28 franchisees; no profit/cost data"
     },
     {
       "name": "fee_burden",
-      "weight": 0.15,
+      "weight": 8.25,
       "note": "7% royalty + 2% BDF + $220/wk tech + 2-8% local = 11-19% effective burden"
     },
     {
       "name": "territory_protection",
-      "weight": 0.15,
+      "weight": 6,
       "note": "no exclusive territory; protected Designated Area (>=30k pop); minimum sales required"
     }
   ],
-  "risk_source": "gen_fields.py weighted components + page (same six published)"
+  "risk_source": "gen_fields.py weighted components + page (same six published)",
+  "logoUrl": "https://alloypersonaltraining.com/wp-content/uploads/2021/05/new-2025-Alloy_StrongerTogether_Logo-Exploration_Option2a-1536x540.png",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
+  "risk_method_original_2026_09_14": "litigation_bankruptcy 0x0.15 + closure_rate 25x0.20 + system_maturity 40x0.15 + financial_transparency 45x0.20 + fee_burden 55x0.15 + territory_protection 40x0.15 = 34.25 -> 34 (weighted mean; source: builder gen_fields.py; same six components published on page)"
 }
